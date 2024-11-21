@@ -43,7 +43,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Manu-MD&6JlAlILY#rwR0Wli15X9l0XIiT3GBJHXldluihL8BSNwUIfQqpXE",
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&LV1GmBJB#eLZjLIAy8QSFUSqjrc7i347B4mkn7fdTuqZ1_UnckOM",
 ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
 ALIVE_MSG : process.env.ALIVE_MSG || "Put your alive messege",
 MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
